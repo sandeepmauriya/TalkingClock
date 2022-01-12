@@ -1,0 +1,16 @@
+C:\Users\LENOVO\source\repos\TalkingClock\TalkingClock\bin\Debug\net5.0\TalkingClock.exe
+C:\Users\LENOVO\source\repos\TalkingClock\TalkingClock\bin\Debug\net5.0\TalkingClock.deps.json
+C:\Users\LENOVO\source\repos\TalkingClock\TalkingClock\bin\Debug\net5.0\TalkingClock.runtimeconfig.json
+C:\Users\LENOVO\source\repos\TalkingClock\TalkingClock\bin\Debug\net5.0\TalkingClock.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\TalkingClock\TalkingClock\bin\Debug\net5.0\TalkingClock.dll
+C:\Users\LENOVO\source\repos\TalkingClock\TalkingClock\bin\Debug\net5.0\ref\TalkingClock.dll
+C:\Users\LENOVO\source\repos\TalkingClock\TalkingClock\bin\Debug\net5.0\TalkingClock.pdb
+C:\Users\LENOVO\source\repos\TalkingClock\TalkingClock\obj\Debug\net5.0\TalkingClock.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\TalkingClock\TalkingClock\obj\Debug\net5.0\TalkingClock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\TalkingClock\TalkingClock\obj\Debug\net5.0\TalkingClock.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\TalkingClock\TalkingClock\obj\Debug\net5.0\TalkingClock.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\TalkingClock\TalkingClock\obj\Debug\net5.0\TalkingClock.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\TalkingClock\TalkingClock\obj\Debug\net5.0\TalkingClock.dll
+C:\Users\LENOVO\source\repos\TalkingClock\TalkingClock\obj\Debug\net5.0\ref\TalkingClock.dll
+C:\Users\LENOVO\source\repos\TalkingClock\TalkingClock\obj\Debug\net5.0\TalkingClock.pdb
+C:\Users\LENOVO\source\repos\TalkingClock\TalkingClock\obj\Debug\net5.0\TalkingClock.genruntimeconfig.cache
